@@ -1,7 +1,7 @@
 # Gamma Ray Sources Detection
 Project developed for the course of Image Processing & Computer Vision of University of Bologna.
 
-A detailed project description and result analysis is provided in the pdf file, please look there.
+A detailed project description and result analysis are provided in the pdf file, please look there.
 
 ## Installation
 - [Install Anaconda](https://www.anaconda.com/products/individual)
